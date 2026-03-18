@@ -1,1 +1,1 @@
-GUIA 2 Programcion Cientifica, uso de Lambda para la identificacion y analisis de datos
+Repositorio para subir las guias de Programacion Cientifica
